@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to sms-gateway
 
-You can use the [editor on GitHub](https://github.com/syno3/sms-gateway/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+![sms-gateway](https://raw.githubusercontent.com/syno3/sms-gateway/master/Images/sms3.png)<br>
+An SMS gateway allows a computer to send or receive Short Message Service (SMS) transmissions to or from a telecommunications network. Most messages are eventually routed into the mobile phone networks. Many SMS gateways support media conversion from email and other formats.This is a great way of bypassing the high text rates charged by the network providers.
+### How it works
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
