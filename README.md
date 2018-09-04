@@ -1,7 +1,10 @@
 ## Welcome to sms-gateway
-<code>WILL FINISH IN A FEW MONTHS</code>
+
 ![sms](https://raw.githubusercontent.com/syno3/sms-gateway/master/Images/sms3.png)<br>
 An SMS gateway allows a computer to send or receive Short Message Service (SMS) transmissions to or from a telecommunications network. Most messages are eventually routed into the mobile phone networks. Many SMS gateways support media conversion from email and other formats.This is a great way of bypassing the high text rates charged by the network providers.
+```markdown
+will finish in a few months due the size of the code
+```
 ### How it works
 The Gateway can convert complicated SMS protocols into more common protocols such as HTTP. This means that developers can use web-based applications to develop an independent SMS service.<br>
 for more information visit [quora](https://www.quora.com/How-does-SMS-gateways-work)
